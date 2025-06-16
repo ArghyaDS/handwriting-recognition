@@ -1,5 +1,4 @@
 # handwriting-recognition
-Curious how machines ‘see’ handwritten numbers, alphabets and text? Let’s dive together.
 
 # 🖊️ Part 1: Handwritten Digit Recognition using CNN
 
