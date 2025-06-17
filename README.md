@@ -1,2 +1,9 @@
-# handwriting-recognition
-Curious how machines ‘see’ numbers? Let’s dive together into Handwritten Digit Recognition using CNN on MNIST dataset
+# Handwritten Character Recognition (A-Z)
+
+A CNN model to classify handwritten English alphabet characters (A-Z).
+
+## Dataset: EMNIST Letters
+- 28x28 grayscale images
+- 26 classes (A-Z)
+
+## Accuracy: ~90-95%
