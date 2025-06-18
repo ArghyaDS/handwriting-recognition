@@ -13,3 +13,7 @@ This project builds a deep learning classifier to distinguish between handwritte
 - Custom dataset combining:
   - Handwritten: EMNIST Letters dataset
   - Printed: Programmatically generated printed letters using standard fonts (e.g., Arial, Times New Roman)
+
+## Installation
+```bash
+pip install -r requirements.txt
