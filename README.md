@@ -17,7 +17,9 @@ This project builds a deep learning classifier to distinguish between handwritte
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
 
+## Steps in Code:
 1️⃣ Binary Classification Setup
 
 Unlike multiclass classification (A-Z), here we framed the problem as binary:
